@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OP_Stachlewski_Krzysztof_App_Filter", "OP_Stachlewski_Krzysztof_App_Filter\OP_Stachlewski_Krzysztof_App_Filter.csproj", "{B3C794A4-0AED-49A3-805E-27D391B0AD0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3C794A4-0AED-49A3-805E-27D391B0AD0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C794A4-0AED-49A3-805E-27D391B0AD0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C794A4-0AED-49A3-805E-27D391B0AD0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C794A4-0AED-49A3-805E-27D391B0AD0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7F1BD2-9C7A-4485-8642-D94C477662F3}
+	EndGlobalSection
+EndGlobal
